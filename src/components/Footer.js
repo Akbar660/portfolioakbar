@@ -6,7 +6,7 @@ const Footer = ({ location }) => {
   return (
     <Container>
       <Copyright location={location}>
-        <p>© Designed and build by Rajat Kumar, 2022 All rights reserved.</p>
+        <p>© Inspired from Rajat Kumar.</p>
       </Copyright>
       <Social location={location}>
         <a

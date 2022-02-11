@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbf65705.css",
+    "main.js": "/static/js/main.d5b60dcd.js",
+    "static/media/Zarahome.png": "/static/media/Zarahome.7f11b55158962d57819f.png",
+    "static/media/medplusmart.png": "/static/media/medplusmart.f14f2431aa7638c9c1f9.png",
+    "static/media/profile1.jpg": "/static/media/profile1.14daddb9af02c91dbea7.jpg",
+    "static/media/Akbarresume.pdf": "/static/media/Akbarresume.102faf1d238dcd3c0fea.pdf",
+    "index.html": "/index.html",
+    "main.dbf65705.css.map": "/static/css/main.dbf65705.css.map",
+    "main.d5b60dcd.js.map": "/static/js/main.d5b60dcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf65705.css",
+    "static/js/main.d5b60dcd.js"
+  ]
+}

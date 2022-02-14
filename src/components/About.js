@@ -21,7 +21,7 @@ const About = () => {
         
 
          My projects can be found on GitHub and on this site as well.
-        .
+        
         </p>
       
 

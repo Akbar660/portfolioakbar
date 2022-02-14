@@ -147,7 +147,7 @@ a{scroll-behavior: smooth;}
     border-radius: 100%;
     cursor: pointer;
     position: absolute;
-    right: 1.5rem;
+    right:3rem;
     top: 1rem;
     transition: color 0.5s;
 
@@ -159,7 +159,8 @@ a{scroll-behavior: smooth;}
       color: ${(props) => props.theme.sunMoonHover};
     }
     @media (max-width: 40rem) {
-      right: 5rem;
+      right: 2rem;
+      top:.25rem;
     }
   }
 
@@ -252,6 +253,7 @@ const MenuLink = styled.div`
     &::before {
       content: '';
       position: absolute;
+   
       bottom: 0;
       left: 0;
       right: 0;

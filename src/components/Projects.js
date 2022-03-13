@@ -23,7 +23,7 @@ const Projects = () => {
           img={require('../images/Zarahome.png')}
           title="Zarahome Clone"
           description="It's a clone of Zara Home,In which user can buy styles in bedding, fragrances, tableware, rugs, lamps, duvet covers, towels and home accessories.This project was done by team of 4."
-          technologies="HTML-CSS-Javascript"
+          technologies="HTML - CSS - Javascript"
       
           link_two="https://zarahome-ww-clone.netlify.app/"
           link_three="https://github.com/Akbar660/Clone-ZaraHome"
@@ -35,7 +35,7 @@ const Projects = () => {
           img={require('../images/reciepeapp.png')}
           title="Reciepe Finder App"
           description="It is a Reciepe Finder App where we find different varieties of Reciepies information and also cooking vedios when we search on searchbar."
-          technologies="Reactjs-Styled Components-Material UI "
+          technologies="Reactjs - Styled Components - Material UI "
           technologies2=""
           link_two="https://basha-receipe-finder-app.vercel.app/"
           link_three="https://github.com/Akbar660/Akbar-Reciepe-App"
@@ -46,7 +46,7 @@ const Projects = () => {
           img={require('../images/weatherapp.png')}
           title="Weather App"
           description="It is a Weather App where we find weather of different cities in world."
-          technologies="Reactjs-Styled Components-Material UI "
+          technologies="Reactjs - Styled Components - Material UI "
           technologies2=""
           link_two="https://weather-app-am7jj5bj9-akbar660.vercel.app/"
           link_three="https://github.com/Akbar660/React-weather-app"

@@ -11,7 +11,7 @@ const Projects = () => {
       <Grid>
         <Card
           img={require('../images/medplusmart.png')}
-          title="Freshly Clone "
+          title="Medplusmart Clone "
           description="It's a clone of MedPlusmart,In which user can buy prescription medicines, OTC products & household needs.This project was done by team of 5."
           technologies="Javascript - HTML - CSS "
           link_two="https://medplusmartclone.000webhostapp.com/"
@@ -21,28 +21,38 @@ const Projects = () => {
         />
         <Card
           img={require('../images/Zarahome.png')}
-          title="Lybrate Clone"
+          title="Zarahome Clone"
           description="It's a clone of Zara Home,In which user can buy styles in bedding, fragrances, tableware, rugs, lamps, duvet covers, towels and home accessories.This project was done by team of 4."
-          technologies="HTML CSS Javascript MongoDB Express.js Node.js Mongoose"
+          technologies="HTML-CSS-Javascript"
       
-          link_two="http://zarahome.herokuapp.com/"
-          link_three="https://github.com/Akbar660/ZaraHome-Backened"
+          link_two="https://zarahome-ww-clone.netlify.app/"
+          link_three="https://github.com/Akbar660/Clone-ZaraHome"
          
           link_two_text="Visit"
           link_three_text="Github"
         />
-        {/* <Card
-          img={require('../images/myglamm.png')}
-          title="My Glamm Clone"
-          description="MyGlamm is a beauty brand that offers an online beauty products marketplace 
-          where user can buy beauty products (team project)"
-          technologies="Javascript - HTML - CSS - MongoDb - Express.js -Node.js -Mongoose "
+        <Card
+          img={require('../images/reciepeapp.png')}
+          title="Reciepe Finder App"
+          description="It is a Reciepe Finder App where we find different varieties of Reciepies information and also cooking vedios when we search on searchbar."
+          technologies="Reactjs-Styled Components-Material UI "
           technologies2=""
-          link_two="https://myglamm-clone.herokuapp.com/"
-          link_three="https://github.com/RanaRajat/MyGlamm-with-Backend"
+          link_two="https://basha-receipe-finder-app.vercel.app/"
+          link_three="https://github.com/Akbar660/Akbar-Reciepe-App"
           link_two_text="Visit"
           link_three_text="Github"
-        /> */}
+        />
+        <Card
+          img={require('../images/weatherapp.png')}
+          title="Weather App"
+          description="It is a Weather App where we find weather of different cities in world."
+          technologies="Reactjs-Styled Components-Material UI "
+          technologies2=""
+          link_two="https://weather-app-am7jj5bj9-akbar660.vercel.app/"
+          link_three="https://github.com/Akbar660/React-weather-app"
+          link_two_text="Visit"
+          link_three_text="Github"
+        />
       </Grid>
     </ProjectsContainer>
   );
